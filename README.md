@@ -1,0 +1,1 @@
+This frontend project aims to provide an engaging and visually appealing interface for a golf course website. Leveraging GSAP (GreenSock Animation Platform), it offers seamless animations that enhance user experience, particularly through scrolling effects.
